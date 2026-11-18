@@ -1,7 +1,7 @@
 # This is a Gradle generated file for dependency locking.
 # Manual edits can break the build and are not advised.
 # This file is expected to be part of source control.
-# To regenerate this file, run: ./gradlew :plugins:itch:dependencies --write-locks
+# To regenerate this file, run: ./gradlew :dependencies --write-locks
 care.better.pf4j:pf4j-kotlin-symbol-processing:2.4.0-1.0.5=kspKotlinProcessorClasspath
 com.fasterxml.jackson.core:jackson-annotations:2.22=testRuntimeClasspath
 com.github.zafarkhaja:java-semver:0.10.2=compileClasspath,kspKotlinProcessorClasspath,testCompileClasspath,testRuntimeClasspath
