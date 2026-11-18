@@ -1,4 +1,4 @@
-Plugin-Version: 1.0.0
+Plugin-Version: 1.0.1
 Plugin-Class: org.gameyfin.plugins.store.itch.ItchPlugin
 Plugin-Id: org.gameyfin.plugins.store.itch
 Plugin-Name: itch.io
@@ -9,4 +9,5 @@ Plugin-Description: Search itch.io and track the downloads of its games.<br>
 Plugin-Short-Description: Search and downloads from itch.io
 Plugin-Author: grimsi
 Plugin-License: MIT
-Plugin-Url: https://github.com/gameyfin
+Plugin-Url: https://github.com/gameyfin/plugin-itchio-store
+Plugin-Requires: >=2.7.0
